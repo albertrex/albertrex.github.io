@@ -25,7 +25,7 @@ Unsure what type of trees they are, don't know much about trees. Certainly very 
 ### EXPLODING COFFEE MACHINE
 **August, 2022 - Winter**
 <br />
-![SK03]({{ site.baseurl }}assets/folio/SK03.jpg)
+![SK03]({{ site.baseurl }}assets/Folio/SK03.jpg)
 
 <span style="color:grey">*Pencil on Paper*</span>
 <br />
@@ -36,7 +36,7 @@ This second hand coffee machine was a gift, but like many second hand gifts the 
 ### LOOKING TOWARD THE DANDENONGS
 **Jan-Feb 2022 - Summer**
 <br />
-![SK02]({{ site.baseurl }}assets/folio/SK02.jpg)
+![SK02]({{ site.baseurl }}assets/Folio/SK02.jpg)
 
 <span style="color:grey">*Oil on Card*</span>
 <br />
