@@ -14,7 +14,7 @@ author: Albert Rex
 #### <span style="color:pink">*WORKING*</span>
 **Early November, 2022 - Spring**
 <br />
-![SK01]({{ site.baseurl }}assets/folio/SK01.jpg)
+![SK01]({{ site.baseurl }}assets/Folio/SK01.jpg)
 
 <span style="color:grey">*Oil on Canvas on Card*</span>
 <br />
@@ -41,7 +41,6 @@ This second hand coffee machine was a gift, but like many second hand gifts the 
 <span style="color:grey">*Oil on Card*</span>
 <br />
 Princes Hill is in fact on top of quite a substantial hill. This becomes very clear from the centre-north (best) section of the Melbourne General Cemetery (MGC). You can see clear across to the Dandenongs from here and you often get a look at cloud/ rain as it moves across them from the city's east.
-
 
 
 
