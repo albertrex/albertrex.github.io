@@ -6,7 +6,7 @@ author: Albert Rex
 
 ### Noting various things as they percolate.
 
-<span style="color:grey">*'An indiscriminate and erratic assemblage with meaning only for its maker. You can also have any drawings here if you want, just email'.*</span>
+<span style="color:grey">*'An indiscriminate and erratic assemblage with meaning only for its maker.' You can also have any drawings here if you want, just email.*</span>
 
 <br />
 

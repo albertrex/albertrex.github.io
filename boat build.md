@@ -24,6 +24,6 @@ Tracking the progress of my boat build at [The Victorian Wooden Boat Centre](htt
 <br />
 ![SK02]({{ site.baseurl }}assets/Boat Build/week_02.jpg)
 
-<span style="color:grey">*Laminating and assembling centreboard sub-assemblies. Steaming and mould ribs from strips of timber.*</span>
+<span style="color:grey">*Laminating and assembling centreboard sub-assemblies. Steaming and moulding ribs from strips of timber.*</span>
 <br />
 
