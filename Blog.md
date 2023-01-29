@@ -13,7 +13,7 @@ author: Albert Rex
 ### NEW PUP!
 **Late Jan, 2023 - Summer**
 <br />
-![SK01]({{ site.baseurl }}assets/bLOG/post01_pup.jpg)
+![SK01]({{ site.baseurl }}assets/Blog/post01_pup.jpg)
 
 <span style="color:grey">*Ink on Paper*</span>
 <br />
