@@ -13,12 +13,6 @@ This is where I plan to put all my Hot Takes about landscape architecture. I'm g
 
 There's a lot of hokum in all this **More than Human** content.
 
-
-### Hot Take 02
-
-Literally all landscape architectural renders look the same.
-It's not impressive to have bought a pacakge of .objs of misc. Australian trees.
-
 ### Hot Take 03
 
 The Moonee Ponds Creek is fine as it is and doesn't need to be **Renaturated**.
