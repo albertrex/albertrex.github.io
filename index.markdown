@@ -5,5 +5,5 @@
 layout: page
 ---
 
-![COVER]({{ site.baseurl }}assets/COVER.jpg)
+![COVER]({{ site.baseurl }}assets/COVER2.jpg)
 
