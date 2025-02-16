@@ -8,9 +8,7 @@ I'm Albert.
 
 I'm a graduate of RMIT's Bacehlor of Landscape Architectural Design & Master of Landscape Architecture.
 
-I've lived within 10 square kilometres my whole life.
-
-I try to regularly post recent work here for fun.
+I'm currently working toward applying for a PhD in landscape architecture so am dusting this site off and attempting to start posting regularly.
 
 Please get in touch:
 albertrex83@gmail.com,
