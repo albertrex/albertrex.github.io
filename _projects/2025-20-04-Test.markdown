@@ -5,7 +5,7 @@ date:   2022-11-04 11:48:42 +1100
 categories: jekyll update
 author: Albert Rex
 ---
-I'm starting this so I can have somewhere to put things and a thing to work on that keeps me hooked into reading and writing after finishing up my master of landscape architecture in July 2022.
+This is a test.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
