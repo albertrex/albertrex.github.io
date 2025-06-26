@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm Albert.
+I'm Albert, this is my house where I keep my things.
+It's a kind of elevated Linktree.
 
 I'm a graduate of RMIT's Bacehlor of Landscape Architectural Design & Master of Landscape Architecture.
 

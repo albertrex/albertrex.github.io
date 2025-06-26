@@ -21,7 +21,7 @@ author: Albert Rex
 <br />
 [Playing at The Periphery](https://issuu.com/albertmrex/docs/s3602426_albertrex_projectb_playing_at_the_periphe)
 <br />
-My largely non-sensical master of landscape architecture thesis. While it's not great, is foundationally untethered and includes a cringe-inducing quantity of lazy and uncritical musings, I do feel that having gotten it out of the way prepares me well for my next thesis which I think has a reasonable chance of being much better in nearly every way.
+This is a piece of work I'm more proud of the further in the past it was completed
 
 <br />
 
