@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Projects
+permalink: /Projects/
 ---
 
 I'm a small part of the team at [Emergent Studios](https://emergentstudios.com.au/).
