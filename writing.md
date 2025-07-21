@@ -19,7 +19,7 @@ author: Albert Rex
 
 **June, 2022 - Winter**
 <br />
-[Playing at The Periphery](https://issuu.com/albertmrex/docs/s3602426_albertrex_projectb_playing_at_the_periphe)
+[Playing at The Periphery]({{ site.baseurl }}assets/Publications/MASTERS.pdf)
 <br />
 This is a piece of work I'm more proud of the further in the past it was completed
 
