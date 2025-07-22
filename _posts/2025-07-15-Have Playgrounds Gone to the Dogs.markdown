@@ -7,7 +7,7 @@ author: Albert Rex
 ---
 
 <figure style="text-align: center;">
-  <img src="{{ site.baseurl }}/assets/Blog/PPP_01.jpg" alt="Dog Ship" style="max-width: 100%; height: auto;">
+  <img src="{{ site.baseurl }}/assets/Blog/PPP_01.jpg" alt="Dog Ship" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
     Dog Daycare Poster from the Nightingale Park in Brunswick.
   </figcaption>
@@ -25,7 +25,7 @@ His point, while self-sabotaged, is clear. Children, for us, inhabit a reified s
 And so a child who is happy and contented playing in a pre-figured scheme conceived by the agents of mass-manufacturing (playground suppliers) somehow fails to live up to a child’s prescribed role.
 
 <figure style="text-align: center;">
-  <img src="{{ site.baseurl }}/assets/Blog/PPP_02.jpg" alt="Nothinghide" style="max-width: 100%; height: auto;">
+  <img src="{{ site.baseurl }}/assets/Blog/PPP_02.jpg" alt="Nothinghide" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
     Playground in Princes Hill
   </figcaption>
@@ -34,7 +34,7 @@ And so a child who is happy and contented playing in a pre-figured scheme concei
 When the playgrounds we build in the world are mass-manufactured then so are the stories embedded in those spaces. Nearly every playground supplier offers some version of the pirate ship playground. You can have a pirate ship by the sea, a pirate ship in Broken Hill, it doesn’t matter; the story that children are invited to enter and play through is pre-conceived, pre-packaged, and a child’s interaction with it is pre-empted by the industrialists. It’s the package deal.
 
 <figure style="text-align: center;">
-  <img src="{{ site.baseurl }}/assets/Blog/PPP_03.png" alt="Shiphide" style="max-width: 100%; height: auto;">
+  <img src="{{ site.baseurl }}/assets/Blog/PPP_03.png" alt="Shiphide" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
     Typical Pirate Ship Playground
   </figcaption>
@@ -46,7 +46,7 @@ But it’s the unexamined repetition that I can’t quite get on board with.
 The Cattle Truck Playground is an example of this. It takes the bones of the Pirate Ship Playground, a simple story-scenario spatialised through replicable parts, and applies that logic to a Cattle Truck, inviting children in to play at taking on the role of cows in the truck.
 
 <figure style="text-align: center;">
-  <img src="{{ site.baseurl }}/assets/Blog/PPP_04.png" alt="Rawhide" style="max-width: 100%; height: auto;">
+  <img src="{{ site.baseurl }}/assets/Blog/PPP_04.png" alt="Rawhide" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
     Cattle Truck Playground (Less Typical)
   </figcaption>
@@ -62,7 +62,7 @@ Levi Strauss famously said that
 And I think that the Pirate Ship **Dog** Playground definitely illuminates something about the stories we tell with playgrounds.
 
 <figure style="text-align: center;">
-  <img src="{{ site.baseurl }}/assets/Blog/PPP_05.jpg" alt="Dawgs" style="max-width: 100%; height: auto;">
+  <img src="{{ site.baseurl }}/assets/Blog/PPP_05.jpg" alt="Dawgs" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
     Pirate Ship Dog Playground
   </figcaption>
@@ -85,7 +85,7 @@ Or is it possible that we sometimes unwittingly slip into a mode of designing fo
 Again, it’s the unexamined reproduction that’s the issue here. It’s no coincidence that the Pirate Ship Dog Playground is a meme of a go-to off-shelf kids’ playground. I think what we always need to do, as landscape architects concerned always with the specifics of a place and the specifics of its actual users, is to carefully parse the replicable elements we bring into a project. They’re valuable, they’re essential to the design process, but they always carry baggage with them. If we do this, if we bring together what we have and what we find with clear-eyed care and knowledge, playgrounds might some day go to the dogs.
 
 <figure style="text-align: center;">
-  <img src="{{ site.baseurl }}/assets/Blog/PPP_06.jpg" alt="Dog Park" style="max-width: 100%; height: auto;">
+  <img src="{{ site.baseurl }}/assets/Blog/PPP_06.jpg" alt="Dog Park" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
   <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
     We're in the Dog Park Now
   </figcaption>
