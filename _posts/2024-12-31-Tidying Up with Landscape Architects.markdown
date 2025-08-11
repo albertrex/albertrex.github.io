@@ -20,9 +20,9 @@ There are problems that arise from this well-meaning posture, and they're proble
 Namely, in positioning and spruiking ourselves in terms of *restoration*, what we inevitably come to represent, in the eyes of your typical architect or engineer, is the *redemption* of their otherwise difficult to justify excesses.
 I find well meaning people (and most architects are) broadly anxious about what we __Doers__ are __Doing__ in the world. They know (like me) that the impulses to __Build Beautiful Things__ and to __Get Things Done__ are essentially __Good__ and optimistic ones, but as well-informed people they also know that demolishing buildings that are basically fine, pouring thousands of tonnes of concrete, and the inescapably compromised nature of extractive supply chains essential to __Building__ many __Beautiful Things__ are becoming increasingly difficult to justify.
 
-Most people I know in the built environment professions (like me) are foundationally uneasy about the justifiability of the environments they build.
+Most people I know in the built environment professions are (like me) foundationally uneasy about how they can justify the environments they build.
 
-And often in the dynamics of live projects I find it's the absolving of these underlying anxieties that becomes the landscape architect's most valuable contribution to the design team. Whether it's through the restoration of indigenous vegetation, environmental remediation, or increased canopy cover: the really compelling *restoration* we often find ourselves offering - the one that pays the bills - is the *restoration* of the self-confidence of well-meaning architects who are regrettably finding it increasingly difficult to justify their impulse to __Build Beautiful Things__ while also still being able to look their kids in the eyes.
+And often in the dynamics of live projects I find it's the absolving of these underlying anxieties that becomes the landscape architect's most valuable contribution to the design team. Whether it's through the restoration of indigenous vegetation, environmental remediation, or increased canopy cover: the really compelling *restoration* we often find ourselves offering - the one that pays the bills - is the *restoration* of the self-confidence of well-meaning architects who are regrettably finding it increasingly difficult to justify their impulse to __Build Beautiful Things__ while also still being able to look their kids in the eye.
 
 <figure style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/Blog/post02_moses.jpg" alt="Moeses on Red Beam" style="max-width: 100%; height: auto;">
@@ -37,7 +37,7 @@ In her very good essay *Sustaining Beauty. The performance of appearance*, Beth 
 
 This observation rings true to me, its one I think would feel familiar to any LA who spends any amount of time in design team meetings. I'd actually take it further and say that the typical relationship between an architect and landscape architect tends to model itself intuitively and insidiously on the old, conservative, traditional gender binaries of doer & redeemer, actor & mender, builder & justifier.
 
-Where I depart from Meyer is in acknowledging a share of agency. It is not just that we are subjected to this binary, we have also made a profession of playing into its dynamics. We have made careers and livings participating in this relatively productive back and forth. I note this not to defend it but to name it, because as any serious person knows the real test of character comes not when we are afforded agency but when we take responsibility for it.
+Where I depart from Meyer is in acknowledging a share of agency. It is not just that we are subjected to this binary, we have also made a profession of playing into its dynamics. We have made careers and livings participating in this relatively productive back and forth. I note this not to defend it but to name it, because as any serious person knows, the real test of character comes not when we are afforded agency but when we take responsibility for it.
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

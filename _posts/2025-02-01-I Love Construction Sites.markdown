@@ -30,7 +30,7 @@ The authors are of course correct when they make the piercing observations that 
 
 The writers of our article in Landscape Research have no doubt made change in the world: I’m sure they’ve elicited a few nodding heads and a few rolling eyes among academic staff and students whose universities have paid for access to their work. My exercising of the technical knowledge and institutional clout afforded our profession has also made change in the world: little kids come to school in a new country, they play and learn in a beautiful new playground, and they feel a sense of pride in the institutions that nurture them and which they know intuitively represent the community’s investment in them.  
   
-I know it’s one of the landscape architect’s great fantasies to be sitting among the rubble and ruins saying ‘I told you so’, but some landscape architects are in fact serious people and serious people know that it’s harder to build things up than it is to tear them down.
+I know it’s one of the landscape architect’s great fantasies to be sitting among the rubble and ruins sneering ‘I told you so’, but some landscape architects are in fact serious people and serious people know that it’s harder to build things up than it is to tear them down.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
