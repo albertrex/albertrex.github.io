@@ -20,65 +20,65 @@ So does Rene Girard, who, in his 1982 book, The Scapegoat, laments
   </figcaption>
 </figure>
 
-Seductively and compellingly, The Scapegoat is a book that orders and explains the stories we tell and the ways we make sense of them.
-Taking Claude Levi Strauss's concept of Mythemes (small narrative units that supposedly recur through all world mythology) as a foundation, Girard works to make the case that hidden below all mythology, motivating and structuring it, is the Scapegoat Mechanism, a rhetorical device by which real foundational acts of collective persecution are retold from the perspective of the persecutors. 
-Collective persecution, or the murder of one by many, is, Girard unsettlingly posits, the original binding agent of all human communities.
+Compellingly, The Scapegoat builds up a template that orders and explains the stories we tell and the ways we make sense of them.
+Taking Claude Levi-Strauss's concept of Mythemes (small narrative units that supposedly recur through all world mythology) as a foundation, Girard works to make the case that hidden below all mythology, motivating and structuring it, is the Scapegoat Mechanism, a rhetorical device by which real foundational acts of collective persecution are retold from the perspective of the persecutors. 
+Collective persecution, or the murder of one by many, is, Girard argues, the original binding agent of all human communities.
 
-Taken as it comes, what could this mean for landscape architects? Girard's view of the origins of human *community* is a shocking starting point:
+Taken as it comes, what could this mean for landscape architects? Girard's view of the origins of human *community* is an interesting starting point:
 
 *'[stoning people to death or running them off a cliff is] the most basic social practice that literally engenders society by transforming mimetic multiplicity in its most atomoised form into the strongest social unity which is the unanimity of the original murder ... these techniques of execution resolve an essential problem for societies with weak or non-existent judicial systems ... they eliminate any difference in individual roles. It is as if the power of the state, non-existent in this type of society, comes in to temporary but nonetheless real rather than symbolic existence in these violent forms of unanimity.'* <sub>182</sub>
 
-And this is not just an origins story, Girard argues that the seed of the murderous mob is latent in any crowd:
+And this is not just an origins story, Girard argues that an appetite for collective violence latent in any crowd:
 
 *'The crowd tends toward persecution since the natural cause of what troubles it and transforms it into a turba cannot interest it. The crowd by definition seeks action but cannot affect natural causes. It therefore looks for an accessible cause that will appease its appetite for violence. Those who make up the crowd are always potential persecutors, for they dream of purging the community of the impure elements that corrupt it, the traitors who undermine it.'*<sub>16</sub>
 
 Landscape architects are the built environment profession charged with imagining shared public space. Naturally we see the *community* conjured up frequently in our discourse. Less so the *crowd*, less so again the *mob*. 
 
-What a disorienting, undermining, revelatory thought for a landscape architect. As a discipline saturated in a vaguely communitarian and majoritarian do-gooder ethic, in speculative work that (equal parts nostalgic and utopian) invariably depicts
+What a disorienting, undermining, revelatory thought for us landscape architects then. As a discipline saturated in a vaguely communitarian and majoritarian do-gooder ethic, in speculative work that (equal parts nostalgic and utopian) invariably depicts
 
 *'an ecological paradise ... expressed primarily through healthy, happy people immersed in pristine naturalistic landscapes ... filling urban space with return-to-nature, eco-paradisical images'* [^2]
 
 
-What a jolt to the system! What a summer storm! The suggestion that *the community* we know and love is never more than the the nice face of the *Murderous Mob*. Right or wrong, this structural analysis puts one of landscape architecture's great mythemes, *the Community*, under the microscope. It's a root and branch study that casts new light and asks new questions. Surely this can only be welcomed as healthy and productive.
+What a jolt to the system! What a summer storm! The suggestion that this *community* always has another face, that of the *Murderous Mob*. Right or wrong, this structural analysis puts one of landscape architecture's great mythemes, *the Community*, under the microscope. It's a root and branch study that casts new light and asks new questions. Surely any mature and self-assured profession would welcome this kind on an re-appraisal as healthy and productive.
 
 -
 
-It's important to be clear that when it comes to countering the Scapegoat mechanism, Girard is a Western exceptionalist in general and a Christian exceptionalist in particular. He believes that Western intellectual progress over the last 2000 odd years has worked productively toward undermining the Scapegoat mechanism and he argues that this work has been done exclusively through the revelatory power of the Gospels.
+It's important to be clear that when it comes to countering the Scapegoat Mechanism, Girard is a Western exceptionalist in general and a Christian exceptionalist in particular. He believes that Western intellectual progress over the last 2000 odd years has worked productively toward undermining the Scapegoat Mechanism and he argues that this work has been done exclusively through the revelatory power of the Gospels.
 The Gospels are exceptional, he argues, as the first widely adopted text that tells the story of persecution from the perspective of the persecuted, that identifies and empathises with victims rather than perpetrators. This, he argues, reveals or uncovers the ties of collective violence that bind the community together, structurally weakening them:
 
 *'the violence of the cultural order is revealed in the Gospels ... and the cultural order cannot survive such a revelation'* <sub>189</sub>
 
-Jesus doesn't reciprocate the violence done against him, he forgives his persecutors because *they know not what they do*, and in so doing his collective murder by the community is revealed for what it is. This is a revelation from which, Girard hopes, the community structured through collective violence cannot recover.
+Girard goes on to argue that over time the revelatory power of the Gospels will go on to completely disintegrate communities founded on collective violence and their structuring Scapegoat Mechanism.
+He admits, of course, as any of us can see, that this is a point we have not youet quite reached.
 
-Girard goes on to argue that over time the revelatory power of the Gospels will go on to completely disintegrate communities founded on collective violence and their contingent scapegoat mechanism.
-He admits, of course, as any of us can see, that we haven't quite got there yet.
+-
 
 If they are to be believed, these are a set of circumstances that seem at risk of lending themselves to abuse:
-__IF__ the Scapegoat mechanism is an obscured rule that structures societies and __IF__ some people have come to identify it while it remains obscured to others, surely the Mechanism's power is at risk of being abused by those few who understand its function.
+__IF__ the Scapegoat Mechanism is an obscured rule that structures societies and __IF__ some people have come to identify it while it remains obscured to others, surely the mechanism's power is at risk of being abused by those few who understand its workings.
 
 In 2020, then U.S. senator JD Vance wrote of Girard that
 
 *'it was his ... theory of the Scapegoat - and what it revealed about Christianity - that made me reconsider my faith.'* [^3]
 
-On the eve of the 2024 Presidential election, Vice Presidential candidate Vance was defending his infamous and spurious assertion that Haitian migrants were eating people's pets. Extraordinarily, he admitted live on national television that:
+On the eve of the 2024 presidential election, then Vice Presidential candidate Vance was defending his infamous and spurious assertion that Haitian migrants were eating people's pets. Extraordinarily, he admitted live on national television that:
 
 *'If I have to create stories so that the American media actually pays attention to the suffering of the American people, then that's what I'm going to do.* [^4]
 
-To articulate the relevance of this pivot to landscape architecture, consider this striking parallel.
-In 1969, in his self-described *'modest enquiry'* into the relationship between people and the planet, Design with Nature, Ian McHarg was not impressed with the book of genesis. He writes:
+What could this possibly mean to landscape architects? Consider this striking parallel.
+In 1969, in his self-described *'modest enquiry'* into the relationship between people and the planet, Design with Nature, Ian McHarg was not impressed with the Book of Genesis. He writes:
 
-*'The creation story in Judaism was absorbed unchanged into Christianity. It emphasized the exclusive divinity of man, his God-given dominion over all things and licensed him to subdue the earth.'* [^5]
+*'Here can be found the sanction and injunction to conquer nature - the enemy, the threat to Jehovah. The creation story in Judaism was absorbed unchanged into Christianity. It emphasized the exclusive divinity of man, his God-given dominion over all things and licensed him to subdue the earth.'* [^5]
 
-Yet, as Susan Herrington notes, only 7 years later, in 1976, McHarg would be quoted saying
+Yet, as Susan Herrington notes, McHarg's langugae itself is riddled with christian assumptions and imagery. Only 7 years later, in 1976, Herrington quotes McHarg arguing:
 
 *'So far as I'm concerned, ecology is a kind of heavy-footed religion. It's a religious quest, this idea about something that unites all rocks, plants, animals and men'* [^6]
 
-In both examples here the manipulators of undergirding mythemes have been arrogant enough to so say the quiet part out loud, to actually boast about how they leverage obscured structural mechanisms they have previously admonished as a means of achieving their own, personal, idiosyncratic ends.
+In both examples here, the manipulators of undergirding mythemes have been arrogant enough to so say the quiet part out loud, to actually boast about how they leverage obscured structural mechanisms they have previously admonished as a means of achieving their own, personal, idiosyncratic ends.
 In these cases at least, its hard to deny the suggestion that these structural mechanisms control us when we can't see them but that we control them (or at the very least gain control of ourselves) when we do the serious critical work of dragging them out into the light.
 
 -
 
-And so if we put some of the less palatable elements of the text to the side for just a minute, if we bracket out the Christian exceptionalism and the mean-spiritedness toward contemporary anthropology as broadly unhelpful  -  if we do this, what bubbles up as compelling in The Scapegoat is the argument that sometimes *we know not what we do*, and that working to *know* is worthwhile. Not only because this knowing inoculates us against those who (like the shaman in the stories who controls people through possession of their name) would seek to use our ignorance against us, but also because this knowledge empowers us to do our work as creative practitioners in a more sure-footed and steady-handed way. To live the examined life, the life in which we take an informed responsibility for the things that we do.
+And so if we put some of the less palatable elements of The Scapegoat to the side for just a minute, if we bracket out the Christian exceptionalism and the broad mean-spiritedness toward contemporary anthropology as generally unhelpful  -  if we do this, what bubbles up as compelling in The Scapegoat is the argument that sometimes *we know not what we do*, and that working to *know* is worthwhile. Not only because this knowing inoculates us against those who (like the shaman in the stories who controls people through possession of their name) would seek to use our ignorance of ourselves against us, but also because this knowledge empowers us to do our work as creative practitioners in a more sure-footed and steady-handed way. To live the examined life, the harder life life in which we become obliged to take an informed responsibility for the things that we do.
 
 -
 
@@ -98,6 +98,6 @@ Research, *then* practice.
 
 [^4]: Vance J D, [JD Vance admits to amplifying stories for media attention](https://www.youtube.com/watch?v=zz811LUhJHA), 2024, CNN, USA.
 
-[^5]: McHarg I L, [Design with Nature](https://archive.org/details/designwithnature00mcha), 1969, The American Museum of Natural history, USA.
+[^5]: McHarg I L, [Design with Nature](https://archive.org/details/designwithnature00mcha), 1969, The American Museum of Natural history, USA. p.26.
 
 [^6]: Herington S, [The Nature of Ian McHarg's Science](https://www.researchgate.net/publication/250231936_The_Nature_of_Ian_McHarg's_Science), 2010, Landscape Journal, USA.
