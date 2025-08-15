@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thing Power Going Backward"
+title:  "Thing Power in Reverse"
 date:   2025-03-10 11:48:42 +1100
 categories: jekyll update
 author: Albert Rex
