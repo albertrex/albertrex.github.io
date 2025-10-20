@@ -17,7 +17,7 @@ This book casts light on a heap of the background tensions that run through our 
 It's structured around the idea that when we acknowledge planetary consequences of industrial society, we typically respond in one of two ways:
 
 1. Focusing on our proven capacity to innovate our way out of tight corners (wizards)
-2. Focusing on the importance of reducing human consumption to live within biological limits (prophets)
+2. Focusing on the importance of reducing human consumption to live within ecological limits (prophets)
 
 Interestingly, journalist Charles C. Mann, author of The Wizard and the Prophet, characterises both these perspectives as grounded in an optimistic human exceptionalism, pointing out that to follow either of these doctrines is to accept a conscious responsibility for planetary consequences no species has accepted before us. (Doy, in my personal view).
 
