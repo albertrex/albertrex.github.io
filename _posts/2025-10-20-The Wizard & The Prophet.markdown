@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BOOK REVIEW: The Wizard and The Prophet"
+title:  "BOOK REVIEW: The Wizard and the Prophet"
 date:   2025-10-20 11:48:42 +1100
 categories: jekyll update
 author: Albert Rex
