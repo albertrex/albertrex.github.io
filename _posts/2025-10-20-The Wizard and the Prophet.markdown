@@ -32,7 +32,7 @@ and
 While you get the feeling that Mann himself comes down a little more on the side of the so called wizards here, the book is a model of good research in that it refrains from executing a beat-up on either side.
 The beat-up, of course, is always a juvenile impulse - and the general rule that the more you learn about something, the harder it becomes to caricature, applies here.
 
-What Mann does an excellent job of through the book is, again and again, compellingly, reminding readers that these two perspectives are ideological, are visions of the good life, and that neither can be ruled in or out by some kind of a technocratic scientistic imperative.
+What Mann does an excellent job of through the book is, again and again, compellingly, reminding readers that these two perspectives are ideological, are visions of the good life, and that neither can be ruled in or out by some kind of a technocratic scientistic judegement.
 In the context of a profession and a broader progressive movement possessed of the guiding mantra that 'the science tells us we have to act', this book is a timely reminder that while this is unboundedly the case, the question of *how* to act is another kettle of fish entirely, one that can only be read out of data the same way fortunes are read out of cards or knucklebones.
 
 One place that this argument is made compellingly is in Mann's tracing of the impacts of agricultural reform through the 20th century on rapidly industrialising regional communities. Notes Mann:
@@ -58,7 +58,7 @@ The trigger for this paranoiac rant? Over population, argued Ehrlich; humans out
 Indeed, the larger citizenries of New York and London, one quickly recognises, would also have been consuming a far greater per person fraction to the planet’s resources at this time.
 Yet it’s poor people in Delhi who are singled out by Ehrlich to be scapegoated with dehumanising epithets like ‘stinking’, ‘thrusting’, ‘mob’, and ‘hellish’.
 
-Why? Because the (again, inaccurate) alarmist prognostication of a ‘carrying capacity’ crisis, of population overload and collapse, was never a question of raw data and inescapable constraints. Rather it was always a handy rhetorical device for wrapping a particular vision of a particular good-life in the ever-alluring aesthetic of incontrovertible science. …
+Why? Because the (again, inaccurate) alarmist prognostication of a ‘carrying capacity’ crisis, of population overload and collapse, was never a question of raw data and inescapable constraints. Rather it was always a handy rhetorical device for wrapping a particular vision of a particular good-life in the ever-alluring aesthetic of incontrovertible science.
 
 ...
 
