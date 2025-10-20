@@ -55,11 +55,10 @@ The foundational sway of ideas of population control to the nascent environmenta
 *'I have understood the population explosion intellectually for a long time. I came to understand it emotionally one stinking hot night in Delhi a few years ago. My wife and I were returning to our hotel in an ancient taxi. The seats were hopping with fleas. The only functional gear was third. As we crawled through the city, we entered a crowded slum area. The temperature was well over 100, and the air was a haze of dust and smoke. The streets seemed alive with people. People eating, people washing, people sleeping. People visiting, arguing, and screaming. People thrusting their heads through the taxi window, begging. People defecating and urinating. People clinging to busses. People herding animals. People, people, people, people. As we moved slowly through the mob, hand horn squawking, the dust, noise, heat, and cooking fires gave the scene a hellish aspect.'*
 
 The trigger for this paranoiac rant? Over population, argued Ehrlich; humans outstripping their ecological bounds. But, as Mann soberly contextualises, Delhi’s population in 1968 was around 3 million. In the same year New York was home to nearly 8 million people, London 7 and a half million. 
-Indeed, the larger citizenries of New York and London, one quickly recognises, would also have been consuming a far greater per person fraction to the planet’s resource consumption at this time.
+Indeed, the larger citizenries of New York and London, one quickly recognises, would also have been consuming a far greater per person fraction to the planet’s resources at this time.
 Yet it’s poor people in Delhi who are singled out by Ehrlich to be scapegoated with dehumanising epithets like ‘stinking’, ‘thrusting’, ‘mob’, and ‘hellish’.
 
-Why? Because the (again inaccurate) alarmist prognostication of a ‘carrying capacity’ crisis, of population overload and collapse, was never a question of raw data and inescapable constraints. Rather it was always a handy rhetorical device for wrapping a particular version of the good life in the illuring aesthetic of incontrovertible science. 
-
+Why? Because the (again, inaccurate) alarmist prognostication of a ‘carrying capacity’ crisis, of population overload and collapse, was never a question of raw data and inescapable constraints. Rather it was always a handy rhetorical device for wrapping a particular vision of a particular good-life in the ever-alluring aesthetic of incontrovertible science. …
 
 ...
 
