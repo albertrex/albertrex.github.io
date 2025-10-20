@@ -70,7 +70,7 @@ But there I go again, after praising the book for not taking sides I'm sliding i
 This book is a breath of fresh air for me in that it does not dismiss out of hand the reality that the Green Revolution (industrial agriculture, shuttle breeding, and factory fertilizer) has saved roughly a billion people from slow dehumanising death by starvation. 
 I acknowledge it's up to each of us individually to decide whether we want to look at this billion as a billion mouths or as a billion souls - but either way it feels to me like something that should figure, as something that serious people can't dismiss out of hand.
 
-After I finished The Wizard and The Prophet I started reading Dominion, Tom Holand's pop history of the influence of Christianity on contemporary western culture. In the introduction he says
+After I finished The Wizard and the Prophet I started reading Dominion, Tom Holand's pop history of the influence of Christianity on contemporary western culture. In the introduction he says
 *'It is the incomplete revolutions which are remembered; the fate of those which triumph is to be taken for granted.'*
 
 I think that's right.
