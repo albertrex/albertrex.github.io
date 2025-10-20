@@ -70,4 +70,4 @@ I acknowledge it's up to each of us individually to decide whether we want to lo
 After I finished The Wizard and the Prophet I started reading Dominion, Tom Holand's pop history of the influence of Christianity on contemporary western culture. In the introduction he says
 *'It is the incomplete revolutions which are remembered; the fate of those which triumph is to be taken for granted.'*
 
-I think that's right.
+Evidently.
