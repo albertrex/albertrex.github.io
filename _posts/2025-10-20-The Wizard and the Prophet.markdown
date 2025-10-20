@@ -14,7 +14,7 @@ author: Albert Rex
 </figure>
 
 This book casts light on a heap of the background tensions that run through our profession. 
-It's structured around the idea that when we accept the reality of planetary consequences of industrial society, we typically respond in one of two ways:
+It's structured around the idea that when we acknowledge planetary consequences of industrial society, we typically respond in one of two ways:
 
 1. Focusing on our proven capacity to innovate our way out of tight corners (wizards)
 2. Focusing on the importance of reducing human consumption to live within biological limits (prophets)
