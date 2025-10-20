@@ -61,8 +61,7 @@ And so Ehrlich betrays his misidentification of the issue here - what upsets him
 More broadly,Mann approaches this same point from a different (less unhinged) angle, pointing out the fact of the massive variation in environmental impact of different people living in different lifestyles.
 Indeed the poorest citizens of Delhi in 1968, one recognises, who Ehrlich identifies as totemic of the human burden on the planet, would have contributed a far smaller proportion of human consumption of natural resources than the citizens of New York or London at this time who nonetheless somehow are less readily described - as a community - with epithets such as 'stinking', 'thrusting', 'mob', or 'hellish'.
 
-And why is this? Because the (again disproved) alarmist prognostication of a 'carrying capacity' crisis, of population overload and collapse, was never a question of raw data and inescapable constraints, it was a handy rhetorical device for pushing a particular version of the good life as a scientistic imperative.
-
+And why is this? Because the (again disproved) alarmist prognostication of a 'carrying capacity' crisis, of population overload and collapse, was never a question of raw data and inescapable constraints, these were never more than a handy rhetorical device for wrapping a particular version of the good life in the compelling (and totalising) aesthetic of incontrovertible science.
 ...
 
 But there I go again, after praising the book for not taking sides I'm sliding into the angry rant myself. I guess it's because I'm frustrated by the extent to which the environmental movement gets a free pass in our discourse while the inherent evil of industrial society is typically presented as a truth universally acknowledged.
