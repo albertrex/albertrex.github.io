@@ -26,12 +26,12 @@ But it is this space that Winnicott identifies between self and other that is in
 and that
 *'In playing, the child manipulates external phenomena in the service of the dream and invests chosen external phenomena with dream meaning and feeling.'* 60
 
-The space of play is a space in which a child can still invest external phenomena with some of the self-same omnipotence that characterised the child's earliest conceptions. The world, however, is newly recognised as bringing logics, constraints, and rules of it's own to the table. Playing, Winnicott argues, happens in this place of interface and slippage between inside and out and is a prerequisite to the later skills of concentration, cultural engagement and living rather than surviving life.
+The space of play is a space in which a child can still invest external phenomena with some of the self-same omnipotence that characterised the child's earliest conceptions. The world, however, is newly recognised as bringing logics, constraints, and rules of its own to the table. Playing, Winnicott argues, happens in this place of interface and slippage between inside and out and is a prerequisite to the later skills of concentration, cultural engagement and living rather than surviving life.
 
 Winnicott's definition of play offers a helpful challenge to the 'all external order is tyranny' position posited by some landscape architects in playground design and evident more loosely even in the antagonism with architecture raised at the opening of this piece.
 In 1971 landscape architect [[Simon Nicholson]] originated the influential Theory of Loose Parts in which he argued that 
 
-*'in any environment, both the degree of inventiveness and creativity, and the possibility of discover, are directly proportional to the number and kind of variables in it'*
+*'in any environment, both the degree of inventiveness and creativity, and the possibility of discovery, are directly proportional to the number and kind of variables in it'*
 and that
 *'adults in the form of ... landscape architects ... have had all the fun playing with their own materials, concepts and planning-alternatives, and the builders have had all the fun building the environments out of real materials; and thus has all the fun and creativity been stolen'*
 
